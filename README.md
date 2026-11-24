@@ -1,44 +1,54 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Lakshmi Yadav — building AI stuff until something accidentally becomes a startup" />
+  <img src="./assets/hero.gif" width="100%" alt="Pixel-art window named STARTUP.EXE where a small city builds itself block by block" />
 </p>
+
+<h1 align="center">Hey, I'm Lakshmi 👋</h1>
+
+<h3 align="center">Full-Stack &amp; AI Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/glny"><img src="https://img.shields.io/badge/LinkedIn-glny-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="mailto:lakshmibeenhere@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Lakshmiyadav65&label=visitors&color=a78bfa&style=for-the-badge&abbreviated=true" alt="Profile visitors" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=560&lines=Building+AI+stuff...;...until+something+accidentally;becomes+a+startup." alt="Building AI stuff until something accidentally becomes a startup." />
 </p>
 
-### `> live build log`
+<p align="center">I build AI products end to end, from the model call to the last pixel on screen.</p>
 
-<img src="./assets/build.svg" width="100%" alt="Animated terminal building PromptAstra, OneInfo, Sona, gang.roll and AI voice agents" />
+<h2 align="center">⚡ About Me</h2>
 
-### `> how I build`
+<img align="right" src="./assets/portrait.png" width="290" alt="Dithered pixel-art portrait of Lakshmi" />
 
-<img src="./assets/pipeline.svg" width="100%" alt="Idea → prompt → code → break → ship, then iterate" />
+**Lakshmi** here, a developer from Hyderabad studying at Kalasalingam Academy of Research and Education.
 
-### `> shipped`
+I like shipping whole products, not just parts of them: desktop apps in **Rust + Tauri**, backends in **FastAPI** and **Node.js**, frontends in **React / Next.js**, and mobile apps in **Flutter**.
+
+Right now I'm building **AI voice agents** that call and follow up with a business's leads. Recent builds include **PromptAstra** (a hotkey prompt enhancer), **OneInfo** (an AI video pipeline with RAG) and **Sona** (private, local voice dictation).
+
+My loop is simple: idea → prototype → break it → ship it → repeat.
+
+<br clear="right" />
+
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/Lakshmiyadav65/Perfectprompt"><img src="./assets/card-promptastra.svg" width="49%" alt="PromptAstra" /></a>
-  <a href="https://github.com/Lakshmiyadav65/oneinfo"><img src="./assets/card-oneinfo.svg" width="49%" alt="OneInfo" /></a>
-  <a href="https://github.com/Lakshmiyadav65/sona"><img src="./assets/card-sona.svg" width="49%" alt="Sona" /></a>
-  <a href="https://github.com/Lakshmiyadav65/Resume-Builder-and-Job-Recommendation"><img src="./assets/card-atscribe.svg" width="49%" alt="ATScribe" /></a>
-  <a href="https://github.com/Lakshmiyadav65/Photo"><img src="./assets/card-gangroll.svg" width="49%" alt="gang.roll" /></a>
-  <a href="https://github.com/Lakshmiyadav65/TCSNQT2026"><img src="./assets/card-tcsnqt.svg" width="49%" alt="TCS NQT Prep" /></a>
+  <a href="https://github.com/Lakshmiyadav65"><img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/glny"><img src="https://skillicons.dev/icons?i=linkedin" height="46" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:lakshmibeenhere@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="46" alt="Email" /></a>
 </p>
 
-<p align="center"><sub>More in my <a href="https://github.com/Lakshmiyadav65/100projects">project library</a>.</sub></p>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### `> stack`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,rust,tauri&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, FastAPI, Rust, Tauri" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,postgres,supabase,prisma,vercel,git,github,vscode&perline=9" alt="Flutter, Dart, PostgreSQL, Supabase, Prisma, Vercel, Git, GitHub, VS Code" />
+</p>
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack: TypeScript, React, Next.js, Node.js, Python, FastAPI, Rust, Tauri, Flutter, PostgreSQL, Supabase, LLMs, RAG, Vercel" />
+<h2 align="center">📊 GitHub Stats</h2>
 
-### `> commit history, eaten daily`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lakshmiyadav65&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=FBBF24&currStreakNum=FDE68A&currStreakLabel=F59E0B&sideNums=FDE68A&sideLabels=F59E0B&dates=8B949E&stroke=30363D" alt="GitHub contribution streak" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshmiyadav65/Lakshmiyadav65/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshmiyadav65/Lakshmiyadav65/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Lakshmiyadav65/Lakshmiyadav65/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
-</picture>
+<h2 align="center">📈 Activity Graph</h2>
 
-<img src="./assets/footer.svg" width="100%" alt="git commit -m 'thanks for stopping by'" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmiyadav65&bg_color=0D1117&color=F59E0B&line=F97316&point=FDE68A&area=true&area_color=F97316&title_color=FBBF24&hide_border=true" width="100%" alt="Contribution activity graph" />
+</p>
