@@ -46,9 +46,3 @@ My loop is simple: idea → prototype → break it → ship it → repeat.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lakshmiyadav65&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=FBBF24&currStreakNum=FDE68A&currStreakLabel=F59E0B&sideNums=FDE68A&sideLabels=F59E0B&dates=8B949E&stroke=30363D" alt="GitHub contribution streak" />
 </p>
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmiyadav65&bg_color=0D1117&color=F59E0B&line=F97316&point=FDE68A&area=true&area_color=F97316&title_color=FBBF24&hide_border=true" width="100%" alt="Contribution activity graph" />
-</p>
