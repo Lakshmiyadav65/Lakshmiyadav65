@@ -2,7 +2,7 @@
   <img src="./assets/hero.gif" width="100%" alt="Pixel-art window named STARTUP.EXE where a small city builds itself block by block" />
 </p>
 
-<h1 align="center">Hey, I'm Lakshmi 👋</h1>
+<h1 align="center">Hey, I'm Lakshmi Narasimha 👋</h1>
 
 <h3 align="center">Full-Stack &amp; AI Developer</h3>
 
@@ -16,7 +16,7 @@
 
 <img align="right" src="./assets/portrait.png" width="290" alt="Dithered pixel-art portrait of Lakshmi" />
 
-**Lakshmi** here, a developer from Hyderabad studying at Kalasalingam Academy of Research and Education.
+**Lakshmi Builds** here, a developer from Hyderabad studying at Kalasalingam Academy of Research and Education.
 
 I like shipping whole products, not just parts of them: desktop apps in **Rust + Tauri**, backends in **FastAPI** and **Node.js**, frontends in **React / Next.js**, and mobile apps in **Flutter**.
 
