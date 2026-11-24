@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="git commit -m &quot;thanks for stopping by&quot;">
+<title>git commit -m "thanks for stopping by"</title>
+<style>.m{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}.s{font-family:'Segoe UI','Inter',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}.cursor{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}.ftr{transform-box:fill-box;transform-origin:0 0;animation:ftr 9s steps(50,end) infinite}@keyframes ftr{0%,5.556%{transform:scaleX(0)}33.333%,93.333%{transform:scaleX(1)}93.343%,100%{transform:scaleX(0)}}.ftc{animation:ftc 9s steps(50,end) infinite,blink 1s steps(1) infinite}@keyframes ftc{0%,5.556%{transform:translateX(0);}33.333%{transform:translateX(540.0px)}37.778%,93.333%{transform:translateX(540.0px);}93.343%,100%{transform:translateX(0);}}@keyframes blink{50%{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+
+<rect x="0.5" y="0.5" width="1199" height="89" rx="18" fill="#0d1117" stroke="#1f2a3a"/>
+<text class="m" x="40" y="52" font-size="18" fill="#3fb950">$</text>
+
+  <clipPath id="ft"><rect class="ftr" x="64" y="34" height="25.2" width="542"/></clipPath>
+  <text class="m" x="64" y="52" font-size="18" font-weight="normal" fill="#e6edf3" textLength="540" lengthAdjust="spacingAndGlyphs" clip-path="url(#ft)" >git commit -m "thanks for stopping by" &amp;&amp; git push</text>
+  <rect class="ftc" x="65" y="36.7" width="9.72" height="18.9" fill="#e6edf3" opacity="0.85"/>
+
+</svg>
