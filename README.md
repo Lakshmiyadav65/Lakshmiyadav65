@@ -33,4 +33,12 @@
 
 <img src="./assets/stack.svg" width="100%" alt="Tech stack: TypeScript, React, Next.js, Node.js, Python, FastAPI, Rust, Tauri, Flutter, PostgreSQL, Supabase, LLMs, RAG, Vercel" />
 
+### `> commit history, eaten daily`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lakshmiyadav65/Lakshmiyadav65/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lakshmiyadav65/Lakshmiyadav65/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Lakshmiyadav65/Lakshmiyadav65/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
+</picture>
+
 <img src="./assets/footer.svg" width="100%" alt="git commit -m 'thanks for stopping by'" />
